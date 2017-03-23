@@ -1,8 +1,8 @@
 ---
-title: React Static Boilerplate
+title: Hitmap
 ---
 
-## Welcome!
+## Welcome to Hitmap!
 
 This is a single-page application powered by React and Material Design Lite (MDL).
 
